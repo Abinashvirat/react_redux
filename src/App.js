@@ -1,5 +1,4 @@
 import React from "react";
-import Count from "./components/Count";
 import SearchAppBar from './components/appbar';
 import Bod from './components/bodypart';
 import Cart from "./components/Cart";

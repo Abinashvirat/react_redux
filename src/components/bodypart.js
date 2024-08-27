@@ -1,4 +1,4 @@
-// Bod.js
+
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
